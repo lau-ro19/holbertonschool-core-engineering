@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 pi_val = 3.14159
 is_valid = (5 > 3)
 
