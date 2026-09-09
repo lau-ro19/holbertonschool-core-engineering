@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Module that defines a Square class with position and string representation."""
+"""Module that defines a Square class.
+
+Includes position and string representation.
+"""
 
 
 class Square:
@@ -10,7 +13,7 @@ class Square:
 
         Args:
             size (int): The size of the new square, defaults to 0.
-            position (tuple): The position of the new square, defaults to (0, 0).
+            position (tuple): Position of the square, defaults to (0, 0).
         """
         self.size = size
         self.position = position
